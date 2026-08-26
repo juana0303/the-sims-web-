@@ -58,7 +58,7 @@ a {
 }
 
 #hero {
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://wallpapercave.com/wp/wp1826906.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://inkmagazinevcu.com/wp-content/uploads/2020/03/SimsGraphic.gif);
     background-size: cover;
     background-position: center;
     color:#ffffff ;
@@ -119,4 +119,25 @@ h2 {
 .menu-item h3 {
     font-size: 1.5rem;
     margin-bottom: 0.5rem; 
+}
+
+a {
+    transition: color 0.3s ease;
+}
+
+.main-nav a:hover {
+    color: #3d6dc5;
+}
+
+.btn:hover {
+    background-color: #d9ff71;
+    transition: background-color 0.3s ease;
+}
+
+.site-footer {
+    background-color: #A3DC00;
+    color: #182436;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
 }
