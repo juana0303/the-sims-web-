@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing : border-box ;
+
+}
+body {
+   font-family: Fredoka, Nunito;
+   font-size: 16px;
+   line-height: 1.8;
+   color:#252525;
+   background-color: #f5edde;
+}
+h1,h2,h3, .logo {
+    font-family: ´Playfair Display´, swap ; 
+    font-weight:700 ;
+    color:#0000
+}
